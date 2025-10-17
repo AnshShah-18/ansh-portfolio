@@ -66,24 +66,28 @@ projects: [
   // 💼 Experience
   experience: [
   {
-    role: "Graduate Research Assistant",
-    org: "Discovery Partners Institute (Bluegill Project)",
-    period: "May 2024 – Present",
+    role: "Machine Learning Intern",
+    org: "K. J. Somaiya College of Engineering (Mumbai)",
+    period: "Jan 2023 – May 2023",
     bullets: [
-      "Working on autonomic AI infrastructure using Bluegill cloud platform",
-      "Optimizing large-scale ML pipelines on Azure and AWS"
+      "Designed and trained CNN-based models for Parkinson’s disease detection using vocal biomarkers.",
+      "Implemented feature extraction and signal processing techniques for audio data.",
+      "Evaluated model performance using precision, recall, and ROC-AUC metrics.",
+      "Worked as part of an academic research group focused on healthcare AI applications."
     ],
-    color: "blue"   // 🟦 glow color
+    color: "blue"
   },
   {
-    role: "AI/ML Intern",
-    org: "We Rebel",
-    period: "Jan 2024 – Apr 2024",
+    role: "Machine Learning Intern",
+    org: "SmartKnower (Remote)",
+    period: "Sep 2022 – Dec 2022",
     bullets: [
-      "Developed end-to-end ML APIs for music and finance integrations",
-      "Collaborated with frontend team using React & Django"
+      "Built predictive models for wine quality and customer behavior classification tasks.",
+      "Performed extensive data preprocessing, outlier detection, and feature scaling.",
+      "Implemented supervised learning algorithms and optimized model hyperparameters.",
+      "Created visualizations using Matplotlib and Seaborn to communicate insights effectively."
     ],
-    color: "purple" // 🟪 glow color
+    color: "purple"
   },
   {
     role: "Software Developer Intern",

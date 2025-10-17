@@ -92,7 +92,7 @@ projects: [
   {
     role: "Software Developer Intern",
     org: "Obmondo (AI Startup, Copenhagen)",
-    period: "Jun 2023 – Dec 2023",
+    period: "Julty 2025 – Aug 2025",
     bullets: [
       "Deployed micro-services on Kubernetes with CI/CD pipelines",
       "Managed Gitea repos and SSH/PGP automation"

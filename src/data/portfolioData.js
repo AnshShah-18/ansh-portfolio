@@ -94,8 +94,9 @@ projects: [
     org: "Obmondo (AI Startup, Copenhagen)",
     period: "Julty 2025 – Aug 2025",
     bullets: [
-      "Deployed micro-services on Kubernetes with CI/CD pipelines",
-      "Managed Gitea repos and SSH/PGP automation"
+      "Managed Gitea repos and SSH/PGP automation",
+      "Automated employee decommissioning and account cleanup workflows to improve reliability.",
+      "Monitored and resolved stale Kubernetes alerts, collaborating with senior engineers to ensure production stability."
     ],
     color: "green"  // 🟩 glow color
   },
